@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c32d6c29-4629-411e-ad55-454dedc9f448" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/Group6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 1 Project/Images/Class diagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 1 Project/Images/Use Case Diagram1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 1 Project/Images/domain_model.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 1 Project/Little Animal Horror Zoo (1).vpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 1 Project/Little Animal Horror Zoo UML - Kaizen.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 1 Project/Little Animal Horror Zoo.vpp.bak_000f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 1 Project/Little Animal Horror Zoo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 1 Project/Little Animal Horror Zoo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 1 Project/Little Animal Horror Zoo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 1 Project/Little Animal Horror Zoo/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 1 Project/Little Animal Horror Zoo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 1 Project/Little Animal Horror Zoo/Little Animal Horror Zoo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 1 Project/Little Animal Horror Zoo/out/production/Little Animal Horror Zoo/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 1 Project/Little Animal Horror Zoo/out/production/Little Animal Horror Zoo/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 1 Project/Little Animal Horror Zoo/out/production/Little Animal Horror Zoo/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 1 Project/Little Animal Horror Zoo/out/production/Little Animal Horror Zoo/Rabbit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 1 Project/Little Animal Horror Zoo/out/production/Little Animal Horror Zoo/Snake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 1 Project/Little Animal Horror Zoo/src/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 1 Project/Little Animal Horror Zoo/src/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 1 Project/Little Animal Horror Zoo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 1 Project/Little Animal Horror Zoo/src/Rabbit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 1 Project/Little Animal Horror Zoo/src/Snake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 1 Project/Presentation Plan - Group 6.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 2 Project/Movie app/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 2 Project/Movie app/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 2 Project/Movie app/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 2 Project/Movie app/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 2 Project/Movie app/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 2 Project/Movie app/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 2 Project/Movie app/out/production/untitled/Actor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 2 Project/Movie app/out/production/untitled/Database.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 2 Project/Movie app/out/production/untitled/Genre.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 2 Project/Movie app/out/production/untitled/History.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 2 Project/Movie app/out/production/untitled/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 2 Project/Movie app/out/production/untitled/Movie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 2 Project/Movie app/out/production/untitled/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 2 Project/Movie app/out/production/untitled/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 2 Project/Movie app/src/Actor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 2 Project/Movie app/src/Database.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 2 Project/Movie app/src/History.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 2 Project/Movie app/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 2 Project/Movie app/src/Movie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 2 Project/Movie app/src/Run.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 2 Project/Movie app/src/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 2 Project/Movie app/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Movie app/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Movie app/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Movie app/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Movie app/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="25XzpGIcUIJkbOhN7YfZezTSg5C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ddl.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/src/ddl.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Database Script.ddl.sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c32d6c29-4629-411e-ad55-454dedc9f448" name="Changes" comment="" />
+      <created>1645688402359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645688402359</updated>
+      <workItem from="1645688403526" duration="4862000" />
+      <workItem from="1645699900106" duration="2908000" />
+      <workItem from="1646293073384" duration="615000" />
+      <workItem from="1646647688181" duration="31419000" />
+      <workItem from="1646750639432" duration="178000" />
+      <workItem from="1646752609918" duration="1652000" />
+      <workItem from="1646898502364" duration="324000" />
+      <workItem from="1646902644216" duration="1624000" />
+      <workItem from="1647000719293" duration="1303000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
